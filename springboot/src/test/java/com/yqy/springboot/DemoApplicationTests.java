@@ -3,7 +3,7 @@ package com.yqy.springboot;
 //@SpringBootTest
 class DemoApplicationTests {
 
-//	@Test
+	//@Test
 	void contextLoads() {
 	}
 
